@@ -93,5 +93,5 @@ Email: nanayeb34@gmail.com
 LinkedIn: [Nana Sam Yeboah](https://www.linkedin.com/in/nana-sam-yeboah-0b664484)
 
 **Audrey Eyram Agbeve**  
-Email: audreyagbeve02@gmail.com
+Email: audreyagbeve02@gmail.com  
 LinkedIn: [Audrey (Eyram) Agbeve](https://www.linkedin.com/in/audreyagbeve02/)
