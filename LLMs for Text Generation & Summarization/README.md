@@ -13,9 +13,7 @@ The workshop explores modern approaches to text summarization using transformer-
 3. [Project Structure](#project-structure)
 4. [Tutorial Outline](#tutorial-outline)
 5. [Key Features](#key-features)
-6. [Example Usage](#example-usage)
-7. [Checkpoint Recovery](#checkpoint-recovery)
-8. [Facilitators](#facilitators)
+6. [Facilitators](#facilitators)
 
 ## Prerequisites
 
