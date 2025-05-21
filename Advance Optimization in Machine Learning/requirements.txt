@@ -9,7 +9,7 @@ tensorflow>=2.6.0
 keras>=2.6.0        
 
 # Advanced Optimization Tools
-optuna>=2.10.0     # Hyperparameter optimization (LR scheduling, optimizer comparison)
+optuna>=2.10.0     # Hyperparameter optimization
 
 # Utils
 tqdm>=4.62.0        
